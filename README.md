@@ -11,7 +11,8 @@
 
 <br>
 
-![screenshot](https://raw.githubusercontent.com/Swpn0neel/Todo-beeceptor/main/src/screenshot.PNG)
+![Pawan-Jha](https://github.com/Pjha72/Creative-Visionary-Portfolio/assets/88606641/e2c523ad-2820-4981-bd86-503e3f345efa)
+
 
 ## How To Use
 
