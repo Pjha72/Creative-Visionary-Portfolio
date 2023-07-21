@@ -3,16 +3,16 @@ services:
   swapnoneel-portfolio:
     build:
       context: $PWD/../..
-      dockerfile: $PWD/swapnoneel-portfolio/Dockerfile
+      dockerfile: $PWD/pawan-portfolio/Dockerfile
     restart: always
     expose:
       - "80"
       - "443"
     environment:
-      - VIRTUAL_HOST=swapnoneel.com, www.swapnoneel.com
+      - VIRTUAL_HOST=pawan.com, www.pawan.com
       - VIRTUAL_PORT=80
-      - LETSENCRYPT_HOST=swapnoneel.com, www.swapnoneel.com
-      - LETSENCRYPT_EMAIL=swapnoneelsaha111@gmail.com
+      - LETSENCRYPT_HOST=pawan.com, www.pawan.com
+      - LETSENCRYPT_EMAIL=pjha2186@gmail.com
   nginx:
     image: nginx
     volumes:
@@ -20,9 +20,9 @@ services:
     expose:
       - 80
     depends_on:
-      - swapnoneel-react-portfolio
+      - pawan-react-portfolio
     links:
-      - swapnoneel-react-portfolio
+      - pawan-react-portfolio
 
 networks:
   default:

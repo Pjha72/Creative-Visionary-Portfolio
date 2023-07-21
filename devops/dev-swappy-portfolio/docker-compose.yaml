@@ -4,7 +4,7 @@ services:
   crypto:
     build:
       context: $PWD/../..
-      dockerfile: $PWD/swapnoneel-portfolio/Dockerfile
+      dockerfile: $PWD/pawan-portfolio/Dockerfile
     volumes:
       - ../../src:/app/src
     ports:
