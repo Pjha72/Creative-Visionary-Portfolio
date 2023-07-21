@@ -16,50 +16,50 @@ const Blog = () => {
             <div className="blog__container grid">
                 <div className="blog__card">
                     <div className="blog__thumb">
-                        <a href="https://swapnoneel.hashnode.dev/series/python-masterclass"><span className="blog__category">Python</span></a>
-                        <a href="https://swapnoneel.hashnode.dev/getters-and-setters-in-python"><img src={Blog1} alt="" className='blog__img' /></a>
+                        <a href="https://pjha2186.hashnode.dev/string-methods-in-javascript"><span className="blog__category">JavaScript</span></a>
+                        <a href="https://pjha2186.hashnode.dev/string-methods-in-javascript"><img src={Blog1} alt="" className='blog__img' /></a>
                     </div>
                     <div className="blog__details">
-                        <h3 className="blog__title"><a href="https://swapnoneel.hashnode.dev/getters-and-setters-in-python" style={{color: '#A7AEB9'}}>Getters & Setters</a></h3>
+                        <h3 className="blog__title"><a href="https://pjha2186.hashnode.dev/string-methods-in-javascript" style={{color: '#A7AEB9'}}>String Method’s In Javascript</a></h3>
                         <div className="blog__meta">
-                            <span>18 February, 2023</span>
+                            <span>24 February, 2023</span>
                             <span className="blog__dot">|</span>
-                            <span><a href="https://swapnoneel.hashnode.dev" style={{color: '#8B88B1'}}>Hashnode</a></span>
+                            <span><a href="https://pjha2186.hashnode.dev/string-methods-in-javascript" style={{color: '#8B88B1'}}>Hashnode</a></span>
                         </div>
                     </div>
                 </div>
                 <div className="blog__card">
                     <div className="blog__thumb">
-                        <a href="https://swapnoneel.hashnode.dev/series/python-masterclass"><span className="blog__category">Python</span></a>
-                        <a href="https://swapnoneel.hashnode.dev/object-introspection-in-python"><img src={Blog2} alt="" className='blog__img' /></a>
+                        <a href="https://pjha2186.hashnode.dev/exploring-uselmmer-hooks-in-reactjs"><span className="blog__category">ReactJS</span></a>
+                        <a href="https://pjha2186.hashnode.dev/exploring-uselmmer-hooks-in-reactjs"><img src={Blog2} alt="" className='blog__img' /></a>
                     </div>
                     <div className="blog__details">
-                    <h3 className="blog__title"><a href="https://swapnoneel.hashnode.dev/object-introspection-in-python" style={{color: '#A7AEB9'}}>Object Introspection</a></h3>
+                    <h3 className="blog__title "><a href="https://pjha2186.hashnode.dev/exploring-uselmmer-hooks-in-reactjs" style={{color: '#A7AEB9'}}>Exploring Uselmmer Hooks in ReactJS </a></h3>
                         <div className="blog__meta">
-                            <span>7 February, 2023</span>
+                            <span>21 Jan, 2023</span>
                             <span className="blog__dot">|</span>
-                            <span><a href="https://swapnoneel.hashnode.dev" style={{color: '#8B88B1'}}>Hashnode</a></span>
+                            <span><a href="https://pjha2186.hashnode.dev/exploring-uselmmer-hooks-in-reactjs" style={{color: '#8B88B1'}}>Hashnode</a></span>
                         </div>
                     </div>
                 </div>
                 <div className="blog__card">
                     <div className="blog__thumb">
-                        <a href="https://swapnoneel.hashnode.dev/series/python-masterclass"><span className="blog__category">Python</span></a>
-                        <a href="https://swapnoneel.hashnode.dev/os-modules-in-python"><img src={Blog3} alt="" className='blog__img' /></a>
+                        <a href="https://pjha2186.hashnode.dev/the-power-of-reactjs-hooks"><span className="blog__category">ReactJS</span></a>
+                        <a href="https://pjha2186.hashnode.dev/the-power-of-reactjs-hooks"><img src={Blog3} alt="" className='blog__img' /></a>
                     </div>
                     <div className="blog__details">
-                    <h3 className="blog__title"><a href="https://swapnoneel.hashnode.dev/os-modules-in-python" style={{color: '#A7AEB9'}}>OS Modules in Python</a></h3>
+                    <h3 className="blog__title"><a href="https://pjha2186.hashnode.dev/the-power-of-reactjs-hooks" style={{color: '#A7AEB9'}}>Unleashing the Power of ReactJS Hooks</a></h3>
                         <div className="blog__meta">
-                            <span>12 February, 2023</span>
+                            <span>21 Jan, 2023</span>
                             <span className="blog__dot">|</span>
-                            <span><a href="https://swapnoneel.hashnode.dev" style={{color: '#8B88B1'}}>Hashnode</a></span>
+                            <span><a href="https://pjha2186.hashnode.dev/the-power-of-reactjs-hooks" style={{color: '#8B88B1'}}>Hashnode</a></span>
                         </div>
                     </div>
                 </div>
             </div>
             <span align="center"><br></br>
-                    <p align="center"><a href="https://swapnoneel.hashnode.dev/" className='home__social-link' target='_blank' rel='noreferrer'><b>⬇ FOR MORE BLOGS ⬇</b></a></p>
-                    <p><a href="https://swapnoneel.hashnode.dev/" className='home__social-link' target='_blank' rel='noreferrer'><SiHashnode /></a></p>
+                    <p align="center"><a href="https://hashnode.com/@Pjha2186" className='home__social-link' target='_blank' rel='noreferrer'><b>⬇ FOR MORE BLOGS ⬇</b></a></p>
+                    <p><a href="https://hashnode.com/@Pjha2186" className='home__social-link' target='_blank' rel='noreferrer'><SiHashnode /></a></p>
             </span>
         </section>
     )

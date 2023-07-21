@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  <a href="http://gregsithole.com">
+  <a href="">
   <img src="./src/components/home/me.png" alt="GregSithole" width="180"></a>
   <br>
-  Swapnoneel Saha's Personal Website
+  Pawan Jha Personal Website
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="https://github.com/Swpn0neel" target="_blank">Swapnoneel Saha</a>.</h4>
+<h4 align="center">A simple personal website about <a href="https://github.com/Pjha72" target="_blank">Pawan Jha</a>.</h4>
 
 <br>
 
@@ -19,10 +19,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Swpn0neel/swapnoneel-portfolio
+$ git clone https://github.com/Pjha72/pawan-portfolio
 
 # Go into the repository
-$ cd swapnoneel-portfolio
+$ cd pawan-portfolio
 
 # Install dependencies
 $ yarn install
