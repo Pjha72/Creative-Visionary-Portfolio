@@ -10,17 +10,17 @@ const WorkExperience = [
             "Started learning different frameworks and libraries such as Svelte, React.js, Tailwind CSS and much more.",
         ],
     },
-    {
-        id: 2,
-        title: "Canva & Figma",
-        company: "UI/UX Designing",
-        yearsActive: "December 2022 - Present",
-        information: [
-            "Learnt Canva and Created multiple Designs, Logos, Banners and Thumbnails for my Blogs.",
-            "Dived into Figma and created Clone-Designs of some existing websites with complex designs.",
-            "Created Unique Designs for my Personal Projects and Hackathons.",
-        ],
-    },
+    // {
+    //     id: 2,
+    //     title: "Canva & Figma",
+    //     company: "UI/UX Designing",
+    //     yearsActive: "December 2022 - Present",
+    //     information: [
+    //         "Learnt Canva and Created multiple Designs, Logos, Banners and Thumbnails for my Blogs.",
+    //         "Dived into Figma and created Clone-Designs of some existing websites with complex designs.",
+    //         "Created Unique Designs for my Personal Projects and Hackathons.",
+    //     ],
+    // },
     {
         id: 3,
         title: "Programming",
